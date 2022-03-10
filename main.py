@@ -1,7 +1,7 @@
 import random
 
 print("Ben?")
-foo = ['Yes', 'No', 'Eaugh', 'Hohoho!']
+BenMsg = ['Yes', 'No', 'Eaugh', 'Hohoho!']
 while True:
   input()
-  print(random.choice(foo))
+  print(random.choice(BenMsg))
